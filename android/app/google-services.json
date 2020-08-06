@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429612870403",
+    "firebase_url": "https://multi-room-chat-6e2a9.firebaseio.com",
+    "project_id": "multi-room-chat-6e2a9",
+    "storage_bucket": "multi-room-chat-6e2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429612870403:android:9f433b6470c7270c2ed736",
+        "android_client_info": {
+          "package_name": "com.messaging.multiroomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429612870403-o6c7tgeqsk7shl3jjnoc76g2t4v00065.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messaging.multiroomchat",
+            "certificate_hash": "9db0ee6ea3297abfaec1541a1fb1c28afca0f106"
+          }
+        },
+        {
+          "client_id": "429612870403-522de8cgfupqd1moi11lcbm8p17gd5du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpxaDb_jEcRyD9rox6mqonEN7QncmBGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429612870403-522de8cgfupqd1moi11lcbm8p17gd5du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
