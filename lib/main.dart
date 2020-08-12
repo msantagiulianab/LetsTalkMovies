@@ -43,7 +43,7 @@ class MyHomePage extends StatelessWidget {
                 tag: 'logo',
                 child: Container(
                   width: 100.0,
-                  child: Image.asset("assets/images/logo.png"),
+                  child: Image.asset("assets/icon.png"),
                 ),
               ),
               Text(
@@ -140,7 +140,7 @@ class _RegistrationState extends State<Registration> {
               tag: 'logo',
               child: Container(
                 child: Image.asset(
-                  "assets/images/logo.png",
+                  "assets/icon.png",
                 ),
               ),
             ),
@@ -215,7 +215,7 @@ class _LoginState extends State<Login> {
               tag: 'logo',
               child: Container(
                 child: Image.asset(
-                  "assets/images/logo.png",
+                  "assets/icon.png",
                 ),
               ),
             ),
