@@ -5,6 +5,18 @@ A registration via Email and Password is required, after which you'll be able to
 Some links to the major moview website are also offered, as well as an open chat with the author of the app (I'll do my best to reply promptly).
 For this app the UI that I used is a WhatsApp clone.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/21276996/90058735-08646580-dcda-11ea-85d9-612c205554c7.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90058741-0ac6bf80-dcda-11ea-87bf-7046147936a3.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90058753-0f8b7380-dcda-11ea-8945-a9e04494ac4c.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90058775-174b1800-dcda-11ea-9cda-ed766564582c.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/21276996/90058761-12866400-dcda-11ea-9908-ed49886a1c44.jpg" width="300" />
+</p>
+
+
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
