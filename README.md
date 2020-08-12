@@ -42,6 +42,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 Code:
 Michele Santagiuliana Busellato
 
+Icon: icons8.com
 
 ## Contact
 
