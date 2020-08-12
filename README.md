@@ -1,18 +1,52 @@
-# Let's Talk MOVIES
+# Let's Talk Movies
 
-A multi room chat application to talk about movies, developed in Flutter.
+Let's Talk Movies is an `Android app` that allows `the user` to `share opinions in realtime with other people connected via the app`.
+A registration via Email and Password is required, after which you'll be able to join the ten chat-rooms made available and talk about the RottenTomatoes 2019 Best Movies with other movie geeks.
+Some links to the major moview website are also offered, as well as an open chat with the author of the app (I'll do my best to reply promptly).
+For this app the UI that I used is a WhatsApp clone.
 
-## Getting Started
+## Prerequisites
 
-This project is a starting point for a Flutter application.
+Before you begin, ensure you have met the following requirements:
+* You have installed `Android 6.0 Marshmallow or above` to run it on your mobile device.
+* You have installed `Android Studio v4.0 or above` to edit/compile it on your computer.
+* You have installed the latest version of `JRE 1.8` on your computer
+* You have a `<Windows/Linux/Mac>` computer.
+* You have read `LICENSE file`.
 
-A few resources to get you started if this is your first Flutter project:
+## Installing Get Moving
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To check the code, follow these steps:
+1. Clone the repository
+2. Open it in Android Studio
+3. Run the app on your device
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Using Get Moving
+
+1. Start the app
+2. Press the LogIn/Register button
+
+## Contributing to Get Moving
+
+To contribute to Let's Talk Movies, follow these steps:
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Push to the original branch: `git push origin <project_name>/<location>`
+5. Create the pull request.
+
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Contributors
+
+Code:
+Michele Santagiuliana Busellato
 
 
+## Contact
+
+If you want to contact me you can reach me at <michelesantagiuliana@hotmail.it>.
+
+## License
+
+This project uses the following license: MIT license.
