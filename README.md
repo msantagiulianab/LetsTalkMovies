@@ -1,6 +1,6 @@
 # Let's Talk Movies
 
-Let's Talk Movies is an `Android app` that allows `the user` to `share opinions in realtime with other people connected via the app`.
+Let's Talk Movies is an `Android/iOS app` that allows `the user` to `share opinions in realtime with other people connected via the app`.
 A registration via Email and Password is required, after which you'll be able to join the ten chat-rooms made available and talk about the RottenTomatoes 2019 Best Movies with other movie geeks.
 Some links to the major moview website are also offered, as well as an open chat with the author of the app (I'll do my best to reply promptly).
 For this app the UI that I used is a WhatsApp clone.
