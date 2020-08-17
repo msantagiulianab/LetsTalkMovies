@@ -22,7 +22,7 @@ For this app the UI that I used is a WhatsApp clone.
 Before you begin, ensure you have met the following requirements:
 * You have installed `Android 6.0 Marshmallow or above` to run it on your mobile device.
 * You have installed `Android Studio v4.0 or above` to edit/compile it on your computer.
-* You have installed the latest version of `JRE 1.8` on your computer
+* You have installed the latest version of `Dart/Flutter SDK` on your computer
 * You have a `<Windows/Linux/Mac>` computer.
 * You have read `LICENSE file`.
 
